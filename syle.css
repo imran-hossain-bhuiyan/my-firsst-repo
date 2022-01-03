@@ -2,3 +2,9 @@ p{
     font-style: italic;
     color: aquamarine;
 }
+
+h3{
+    text-align: center;
+    background: crimson;
+    color: darkgoldenrod;
+}
